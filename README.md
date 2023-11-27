@@ -1,4 +1,4 @@
-# StriveMate
+# StriveMate(.v2: migrated from older version)
 Personal-Generalized-Copilot
 
 ### current state: 
