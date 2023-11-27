@@ -1,0 +1,8 @@
+transformers
+openai
+langchain
+PyYAML
+python-dotenv
+chromadb
+sentence-transformers
+-e .

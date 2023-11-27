@@ -1,0 +1,4 @@
+chain_of_thought:
+  If the query is complex or requires detailed reasoning, initiate a thorough thought/reasoning process.
+  Clearly state your Chain of Thought (CoT) explicitly, line by line. Ensure it's comprehensive and covers potential edge cases.
+  Consider multiple angles and perspectives related to the query.
